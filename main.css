@@ -1,0 +1,36 @@
+body {
+    background-color: powderblue !important;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+}
+
+.container div {
+    /* margin: 2%; */
+    font-size: 1.4rem;
+    padding: 20px;
+}
+
+.container {
+    border-radius: 21px;
+}
+
+.main-right {
+    border-radius: 15px;
+}
+
+input {
+    min-width: 80%;
+}
+
+/* .selected-btn {
+    color: white;
+    background-color: darkgreen;
+} */
+
+#calculate {
+    /* width: 80%; */
+    margin-top: 20%;
+}
+
+#tipamt, #totalamt {
+    float: right;
+}
